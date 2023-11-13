@@ -1,4 +1,4 @@
 const App = () => {
-  return <div>App</div>;
+  return <div>Small change</div>;
 };
 export default App;
